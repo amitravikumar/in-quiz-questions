@@ -578,3 +578,10 @@
 - [ ] logical
 - [ ] differential
 - [ ] incremental
+
+#### Q63. Which is not the command-line methods for checking if the MySQL server is running?
+
+- [ ] ps -ef | grep mysqld
+- [x] mysqladmin -u root -p status
+- [ ] show status
+- [ ] /etc/init.d/mysql status
